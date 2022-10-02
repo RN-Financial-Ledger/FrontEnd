@@ -8,11 +8,11 @@
  * @format
  */
 
-import MyComponents from './MyComponents';
-import React from 'react';
+import MyComponents from './components/MyComponents'
+import React from 'react'
 
 const App = () => {
-  return <MyComponents />;
-};
+  return <MyComponents />
+}
 
-export default App;
+export default App
