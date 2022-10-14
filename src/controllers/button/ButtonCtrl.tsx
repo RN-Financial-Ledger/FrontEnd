@@ -4,7 +4,7 @@ import React from 'react'
 const ButtonCtrl = () => {
   return (
     <View>
-      <Text>ButtonCtrl</Text>
+      <Text>hi</Text>
     </View>
   )
 }
