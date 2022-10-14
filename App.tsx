@@ -8,7 +8,7 @@
  * @format
  */
 
-import MyComponents from './components/MyComponents'
+import MyComponents from '@components/MyComponents'
 import React from 'react'
 
 const App = () => {
